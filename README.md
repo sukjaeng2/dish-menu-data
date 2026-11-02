@@ -1,22 +1,28 @@
 <!-- dishmenu-download -->
 # 오늘의 식단 · Dish Menu
 
-서울대학교병원 식당의 점심·저녁 메뉴와 실제 식사 사진을 바탕화면에서 확인하는 Windows 앱입니다.
+서울대학교병원 식당의 **오늘 메뉴와 실제 식사 사진**을 바탕화면에서 확인하는 Windows 앱입니다.
 
-**[Windows 앱 다운로드](https://github.com/sukjaeng2/dish-menu-data/releases/latest/download/DishMenu-Windows.zip)** · **[최신 버전 및 사용 안내](https://github.com/sukjaeng2/dish-menu-data/releases/latest)**
+[**🪟 Windows 앱 다운로드**](https://github.com/sukjaeng2/dish-menu-data/releases/latest/download/DishMenu-Windows.zip) · [업데이트 소식](https://github.com/sukjaeng2/dish-menu-data/releases/latest)
 
-1. `DishMenu-Windows.zip`을 다운로드합니다.
-2. ZIP을 우클릭해 **모두 압축 풀기**를 선택합니다.
-3. 압축을 푼 `DishMenu` 폴더에서 **DishMenu.exe**를 실행합니다.
+## 시작하기
 
-Windows 64비트와 Microsoft Edge가 필요합니다. Python 설치·API 키·GitHub 로그인 없이 사용할 수 있습니다. 첫 실행 때 인터넷으로 식단과 사진을 받아옵니다.
+1. 위의 **Windows 앱 다운로드**를 누릅니다.
+2. 다운로드한 ZIP 파일을 우클릭해 **모두 압축 풀기**를 선택합니다.
+3. 압축을 푼 폴더에서 **DishMenu.exe**를 실행합니다.
 
-EXE와 `_internal`, `DishMenuUpdater.exe`, `version.json`은 함께 두세요. 바탕화면·문서처럼 쓰기 가능한 폴더에서 실행하세요. 저장소의 **Code → Download ZIP**은 앱 다운로드가 아닙니다.
+**폴더 안의 파일은 그대로 두고, DishMenu.exe만 실행해 주세요.**  
+처음에는 식단과 사진을 불러오는 데 잠시 시간이 걸릴 수 있습니다.
 
-작은 화면에서 A·B·C코너를 고르고, 최대화 버튼으로 날짜별 메뉴를 볼 수 있습니다. 점심 10:30·저녁 16:30에 알림이 뜨며 설정에서 시간을 바꿀 수 있습니다. X는 트레이로 숨기기이며 완전히 종료하려면 트레이 메뉴를 이용하세요.
+## 사용하기
 
-새 버전이 나오면 앱 안에서 **업데이트 후 재시작**할 수 있습니다. 식단 새로고침은 앱 업데이트와 별도로 동작합니다.
+- **작은 화면**에서 A·B·C코너를 선택해 오늘 메뉴를 확인하세요.
+- **최대화(□)**를 누르면 큰 화면에서 날짜별 메뉴를 볼 수 있습니다.
+- **항상 위**를 켜면 다른 창 위에 식단을 띄워둘 수 있습니다.
+- 기본 알림은 **점심 10:30 · 저녁 16:30**입니다. 설정에서 시간을 바꾸거나 끌 수 있습니다.
+- **X를 눌러도 알림은 계속 동작합니다.** 완전히 종료하려면 오른쪽 아래 트레이의 식단 아이콘을 우클릭하세요.
 
-<!-- /dishmenu-download -->
+새 버전은 **설정 → 업데이트**에서 설치할 수 있습니다.  
+메뉴만 다시 불러오려면 **새로고침**을 누르세요.
 
 ---
